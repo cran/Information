@@ -37,13 +37,22 @@ Information::plot_infotables(IV, IV$Summary$Variable[1:4], same_scale=TRUE)
 
 # If the goal is to plot multiple variables individually, as opposed to a comparison-grid, we can
 # loop through the variable names and create individual plots
-# names <- names(IV$Tables)
-# plots <- list()
-# for (i in 1:length(names)){
-#    plots[[i]] <- plot_infotables(IV, names[i])
-# }
+\dontrun{
+names <- names(IV$Tables)
+plots <- list()
+for (i in 1:length(names)){
+  plots[[i]] <- plot_infotables(IV, names[i])
+}
 # Showing the top 18 variables
-# plots[1:18]
+plots[1:18]
+}
+
+# We can speed up the creation of the information tables by invoking the parallel option (default)
+# If we leave ncore as the default, create_infotables() will set ncore to available clusters - 1
+\dontrun{
+train <- subset(train, TREATMENT==1)
+IV <- Information::create_infotables(data=train, y="PURCHASE")
+}
 closeAllConnections()
 }
 
