@@ -1,4 +1,4 @@
-6cbe4ec9677522ebd244508386b3fa91 *DESCRIPTION
+96f6cd4aae66f0e3ec3f4ea210047f8a *DESCRIPTION
 ec19d7ec8b70a77e391eec9a846d5da5 *NAMESPACE
 fcb5e99e3e3642cba2f190cc12f0d60a *R/Aggregate.R
 e1c642d615b3b4a8bd9533ed2b9ca8b2 *R/CheckInputs.R
@@ -16,8 +16,8 @@ f15aa5fe9c296ff98a87c7a34d8e24aa *R/plot_infotables.R
 fc56dd0fd7506e9228f5aa541bbda8ce *build/vignette.rds
 e5f0ae4cb244e947bfd38f9b15d2b97f *data/train.rda
 e3a6417e9a7f63a81cf1143e2ee3f46b *data/valid.rda
-1b03b2cd339872cfcaed2b3165aa17d5 *inst/doc/Information-vignette.Rmd
-7b05690ceaf03c3f7c95274cbeb96eeb *inst/doc/Information-vignette.html
+eb3caae2733965b59eb2134693672126 *inst/doc/Information-vignette.Rmd
+e68e059893704a76616ebb5d2413fc4b *inst/doc/Information-vignette.html
 134617bdd72132457f4eaeef6d6e7e3b *man/Aggregate.Rd
 2b77e7714ef177d204f6b67bed7357d8 *man/CheckInputs.Rd
 caa8a73e311de06717bcb0b344b6a95e *man/Information.Rd
@@ -31,4 +31,4 @@ bf5297344f6546e270c80cf4186cca2d *man/is.binary.Rd
 ef7a606579d30ba3cf536e826d0af4f2 *man/plot_infotables.Rd
 26c60b56a74f98bb56a34476b6731388 *man/train.Rd
 434781376c6c1d8e62e0cc6ac2dd8b16 *man/valid.Rd
-1b03b2cd339872cfcaed2b3165aa17d5 *vignettes/Information-vignette.Rmd
+eb3caae2733965b59eb2134693672126 *vignettes/Information-vignette.Rmd
