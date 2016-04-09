@@ -1,8 +1,8 @@
-212b01e8b207019ce32a324d2b9feee7 *DESCRIPTION
+959481a7aa7c73bbcc8b807078bc9a92 *DESCRIPTION
 20e38062f266960572a1ab1022de2614 *NAMESPACE
-367aadcf6354bf9feb1c8d48c14f2021 *NEWS.md
+d41ea6c4793662e0a1ea2bd42866af50 *NEWS.md
 c486096e184021548b39add57378f4cd *R/Aggregate.R
-e1c642d615b3b4a8bd9533ed2b9ca8b2 *R/CheckInputs.R
+255f7cfcf405268ecff86c3657395f37 *R/CheckInputs.R
 1fbe3946bba5c7550ba232895d4b00aa *R/Information.R
 2b0c089f971695233261f9b3223023a3 *R/IsBinary.R
 b6605e4e22277f9e39ef6dbd1f498289 *R/MultiPlot.R
@@ -10,7 +10,7 @@ a4a0089d8751da369ae02603cd7b6b03 *R/NWOE.R
 e64616e2bd8be085e68de21a01b45369 *R/Penalty.R
 e429d698e1a12eaf936202174004dfb7 *R/SinglePlot.R
 a16653cc522561ebd277c87e5227baeb *R/WOE.R
-79829c81cc42216b37f9a2dbf29c7e29 *R/create_infotables.R
+1e7aebc055478548fc891652213c1110 *R/create_infotables.R
 5f8488ce280e746b6dc7db6332f72fe3 *R/data.R
 f15aa5fe9c296ff98a87c7a34d8e24aa *R/plot_infotables.R
 3ddbaecb7ac56bc4d03cd62ec388510c *README.md
@@ -18,7 +18,7 @@ f15aa5fe9c296ff98a87c7a34d8e24aa *R/plot_infotables.R
 e5f0ae4cb244e947bfd38f9b15d2b97f *data/train.rda
 e3a6417e9a7f63a81cf1143e2ee3f46b *data/valid.rda
 eb3caae2733965b59eb2134693672126 *inst/doc/Information-vignette.Rmd
-7b3581007286ae3bbe544f1ca9a5d578 *inst/doc/Information-vignette.html
+927e1f0743a29c9cc290e09bde2a009a *inst/doc/Information-vignette.html
 e763bc0ad3d80cbce554b24343f9d407 *man/Aggregate.Rd
 78499a47d9404d4d554d0cf8fb8bfd59 *man/CheckInputs.Rd
 ecf64eb0155835d142c07002e58fe88c *man/Information.Rd
